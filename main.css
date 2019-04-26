@@ -576,6 +576,37 @@ input[type="submit"]:hover{
     .up{
         right: 2rem;
     }
+    
+    .column h2{
+        font-size: 1rem;
+    }
+
+    .column .fas {
+        font-size: 30px;
+    }
+
+    .column .price span {
+        font-size: 35px;
+    }
+
+    .column ul li {
+        font-size: 10px;
+    }
+    
+    .container .column {
+        padding: 0 0 10px;
+        margin: 0 5px;
+    }
+
+    .column .option .fas {
+        font-size: 10px;
+    }
+
+    .column a {
+        padding: 5px 20px;
+        margin: 10px 0 5px;
+        border-radius: 40px;
+    }
 }
 
 /*End media queries*/
